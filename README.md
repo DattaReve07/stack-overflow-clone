@@ -44,5 +44,4 @@ use the above command on the server side to run server
 
 
 ## Conclusion
-* I tried to clone the stack overflow with front and backend. Some functionality like Ask question, Answer the question, Positive/Negative vote have been cloned.
-*
+* I tried to clone the stack overflow with front and backend. Some functionality like Ask question, Answer the question have been cloned.
